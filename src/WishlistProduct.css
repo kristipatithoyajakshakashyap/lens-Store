@@ -1,0 +1,21 @@
+.WishlistProduct{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;    
+}
+.WishlistProduct_info{
+    padding-left: 20px;
+}
+.WishlistProduct_image{
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+}
+.WishlistProduct_rating{
+    display: flex;
+}
+
+.WishlistProduct_title{
+    font-size: 17px;
+    font-weight: 700;
+}

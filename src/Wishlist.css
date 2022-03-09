@@ -1,0 +1,16 @@
+.wishlist{
+    display: flex;
+    height: max-content;
+    background-color: white;
+    padding: 20px;
+ }
+ 
+ .wishlist_left{
+    width:80%;
+ }
+ .wishlist_title{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+ }
+ 

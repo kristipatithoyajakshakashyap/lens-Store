@@ -1,0 +1,14 @@
+Components:
+    app => main 
+    Header => Gobal, present in the home page, cart page, wish List page 
+    Products => This are the main products present in the home page 
+    Checkout => this is the final page present in the cart 
+    CheckoutProducts => this is the check out products present in the checkout page left side
+    Subtotal => This is the subtotal of the products present in the right side of the checkout page
+    Wishlist => this is the liked products page 
+    WishlistProducts => This is the liked products preset in the wish list page
+    Payment => this is the payment page 
+
+Dependencies for payment :
+    axios is installed , firebase functions folder is created with firebase inti express, cors and stripe are installed in the functions folder
+    
